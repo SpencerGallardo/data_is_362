@@ -1,0 +1,11 @@
+﻿airline,ontime,delays,flights
+alaska,Los Angeles,497,62
+alaska,Phoenix,221,12
+alaska,San Diego,212,20
+alaska,San Francisco,503,102
+alaska,Seattle,1841,305
+amwest,Los Angeles,694,117
+amwest,Phoenix,4840,415
+amwest,San Diego,383,65
+amwest,San Francisco,320,129
+amwest,Seattle,201,61
